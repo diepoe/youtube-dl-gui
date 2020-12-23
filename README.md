@@ -11,13 +11,13 @@ Clone this repository, and cd into it.
 
 Create and activate your virtual environment.
 
-	MacOS/Linux:
+MacOS/Linux:
 
 		`virtualenv --no-site-packages env`
 		`source env/bin/activate`
 
 
-        Windows:
+Windows:
 
 		`virtualenv env`
 		`.\env\Scripts\activate`
