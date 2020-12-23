@@ -13,14 +13,14 @@ Create and activate your virtual environment.
 
 MacOS/Linux:
 
-		`virtualenv --no-site-packages env`
-		`source env/bin/activate`
+		virtualenv --no-site-packages env
+		source env/bin/activate
 
 
 Windows:
 
-		`virtualenv env`
-		`.\env\Scripts\activate`
+		virtualenv env
+		.\env\Scripts\activate
 
 Install requisite python packages and modules.
 
