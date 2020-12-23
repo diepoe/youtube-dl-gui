@@ -10,10 +10,11 @@ Clone this repository, and cd into it.
 `cd BookOmatic/`
 
 Create and activate your virtual environment.
+
 	MacOS/Linux:
 
 		`virtualenv --no-site-packages env`
-		`source env/bin/activate
+		`source env/bin/activate`
 
 
         Windows:
