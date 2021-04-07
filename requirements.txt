@@ -3,4 +3,4 @@ pycodestyle==2.6.0
 PyQt5==5.15.2
 PyQt5-sip==12.8.1
 toml==0.10.2
-youtube-dl==2020.12.14
+youtube-dl==2021.4.7
