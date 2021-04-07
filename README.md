@@ -6,9 +6,9 @@ Simple PyQT5 GUI for youtube-dl.
 
 Clone this repository, and cd into it.
 
-`git clone https://github.com/KalleHallden/BookOmatic.git`
+`git clone https://github.com/HAUDRAUFHAUN/youtube-dl-gui`
 
-`cd BookOmatic/`
+`cd youtube-dl-gui/`
 
 Create and activate your virtual environment.
 
@@ -27,4 +27,4 @@ Install requisite python packages and modules.
 
 `pip install -r requirements.txt`
 
-Verify the application is running with `python downloader.py`
+Verify the application is running with `python downloader.py` or `python3 downloader.py`
